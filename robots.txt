@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ValerieAlexiou887.github.io/ValerieAlexiou887/sitemap.xml
